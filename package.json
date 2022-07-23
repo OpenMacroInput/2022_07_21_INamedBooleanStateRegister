@@ -1,6 +1,6 @@
 
 {                                                                                
-  "name": "be.eloistree.inamedbooleanstateregister",                              
+  "name": "be.omi.inamedbooleanstateregister",                              
   "displayName": "INamedBooleanStateRegister",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
